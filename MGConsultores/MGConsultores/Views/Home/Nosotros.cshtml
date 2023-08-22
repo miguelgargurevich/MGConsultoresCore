@@ -1,0 +1,80 @@
+﻿@using Newtonsoft.Json
+@using System.Linq
+
+
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="es-PE">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Paginas web, desarrollo de sistemas, sofware factory. soluciones tecnologicas, consultoria ">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>Nosotros</title>
+   
+    <link rel="stylesheet" href="~/css/nicepage.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Nosotros.css" asp-append-version="true" />
+
+    <script class="u-script" type="text/javascript" src="~/js/jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="~/js/nicepage.js" defer=""></script>
+
+
+
+
+    <link rel="icon" href="images/favicon.ico">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+
+    <meta property="og:title" content="Nosotros">
+    <meta property="og:type" content="website">
+    <meta name="theme-color" content="#478ac9">
+    <link rel="canonical" href="@Url.Action("Index", "Home")">
+    <meta property="og:url" content="@Url.Action("Index", "Home")">
+</head>
+<body class="u-body">
+    <partial name= "_Menu" />
+
+    <section class="u-align-center u-clearfix u-section-1" id="sec-935c">
+        <div class="u-clearfix u-sheet u-sheet-1">
+            <h2 class="u-text u-text-palette-1-base u-text-1" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="">
+                Acerca de Nosotros<br>
+            </h2>
+            <p class="u-large-text u-text u-text-variant u-text-2" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="">
+                Somos una firma tecnológica especializada en el desarrollo de aplicaciones web / móviles y marketing digital con fuerte presencia nacional e internacional. Nuestro equipo de expertos usará todo el conocimiento de nuestra red a favor de su negocio. Nos dedicamos a la innovación, creación y desarrollo de nuevas estrategias exitosas que logran reconocimiento internacional. En los últimos 10 años MG Consultores ha estado dando soluciones a nuestros clientes de todo el mundo aplicando soluciones de vanguardia, estamos orgullosos de ayudar a nuestros clientes en la creación de sus productos tecnologícos y estrategias digitales para lograr los resultados esperados. Si usted esta buscando el consejo de un experto para mejorar la rentabilidad de sus campañas de marketing y el desarrollo de sus sistemas, contáctenos sin compromiso.<br>
+            </p>
+        </div>
+    </section>
+    <section class="u-align-center u-clearfix u-section-2" id="sec-499a">
+        <div class="u-clearfix u-sheet u-sheet-1">
+            <h3 class="u-text u-text-1" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="">Nuestro Equipo Principal</h3>
+            <div class="u-expanded-width u-list u-list-1">
+                @*<div class="u-repeater u-repeater-1">*@
+                <div class="u-repeater-1">
+                    <div class="u-align-center u-container-style u-list-item u-repeater-item u-list-item-1" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="">
+                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
+                            <div alt="" class="u-image u-image-circle u-image-1" src="" data-image-width="90" data-image-height="90"></div>
+                            <h5 class="u-text u-text-2">Miguel Gargurevich</h5>
+                            <h6 class="u-text u-text-3">CEO</h6>
+                        </div>
+                    </div>
+                    <div class="u-align-center u-container-style u-list-item u-repeater-item u-list-item-2" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="">
+                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
+                            <div alt="" class="u-image u-image-circle u-image-2" src="" data-image-width="215" data-image-height="215"></div>
+                            <h5 class="u-text u-text-4">Natalie Alfaro</h5>
+                            <h6 class="u-text u-text-5">Bussines Manager</h6>
+                        </div>
+                    </div>
+                    @*<div class="u-align-center u-container-style u-list-item u-repeater-item u-list-item-3" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="">
+                <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                    <div alt="" class="u-image u-image-circle u-image-3" src="" data-image-width="226" data-image-height="226"></div>
+                    <h5 class="u-text u-text-6">Carlos Calderon de la Barca</h5>
+                    <h6 class="u-text u-text-7">Senior Engineer</h6>
+                </div>
+            </div>*@
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+</body>
+</html>

@@ -1,0 +1,69 @@
+﻿<Properties StartupConfiguration="{E1B232D1-86FA-4AD5-A8F8-240B7285932B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/miguelfernandezgargurevich/Projects/MGConsultores/MGConsultores/Controllers/HomeController.cs" relfile="MGConsultores/Controllers/HomeController.cs" line="181" column="1" />
+      <Breakpoint file="/Users/miguelfernandezgargurevich/Projects/MGConsultores/MGConsultores/Controllers/HomeController.cs" relfile="MGConsultores/Controllers/HomeController.cs" line="146" column="1" />
+      <Breakpoint file="/Users/miguelfernandezgargurevich/Projects/MGConsultores/MGConsultores/Controllers/CuentaController.cs" relfile="MGConsultores/Controllers/CuentaController.cs" line="48" column="1" />
+      <Breakpoint file="/Users/miguelfernandezgargurevich/Projects/MGConsultores/MGConsultores/Controllers/CuentaController.cs" relfile="MGConsultores/Controllers/CuentaController.cs" line="67" column="1" />
+      <Breakpoint file="/Users/miguelfernandezgargurevich/Projects/MGConsultores/MGConsultores/Controllers/HomeController.cs" relfile="MGConsultores/Controllers/HomeController.cs" line="191" column="1" />
+      <Breakpoint file="/Users/miguelfernandezgargurevich/Projects/MGConsultores/MGConsultores/Controllers/HomeController.cs" relfile="MGConsultores/Controllers/HomeController.cs" line="195" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MGConsultores/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="MGConsultores/appsettings.json" Line="18" Column="1" IsPinned="True" />
+      <File FileName="MGConsultores/Controllers/HomeController.cs" Line="191" Column="1" />
+      <File FileName="MGConsultores/Program.cs" Line="11" Column="1" />
+      <File FileName="MGConsultores/wwwroot/css/nicepage.css" Line="36248" Column="72" />
+      <File FileName="MGConsultores/Views/Shared/_Layout.cshtml" Line="86" Column="76" />
+      <File FileName="MGConsultores/Views/Home/Index.cshtml" Line="14" Column="5" />
+      <File FileName="MGConsultores/Views/Home/About.cshtml" Line="1" Column="1" />
+      <File FileName="MGConsultores/Views/Home/AplicacionesMoviles.cshtml" Line="15" Column="94" />
+      <File FileName="MGConsultores/Views/Home/AplicacionesWeb.cshtml" Line="17" Column="94" />
+      <File FileName="MGConsultores/Views/Home/CalidadGarantia.cshtml" Line="16" Column="94" />
+      <File FileName="MGConsultores/Views/Home/ComoTrabajamos.cshtml" Line="15" Column="94" />
+      <File FileName="MGConsultores/Views/Home/Consultoria.cshtml" Line="16" Column="94" />
+      <File FileName="MGConsultores/Views/Home/Contacto.cshtml" Line="17" Column="1" />
+      <File FileName="MGConsultores/Views/Home/Cultura.cshtml" Line="16" Column="94" />
+      <File FileName="MGConsultores/Views/Home/DesarrolloSoftware.cshtml" Line="16" Column="1" />
+      <File FileName="MGConsultores/Views/Home/Error.cshtml" Line="1" Column="1" />
+      <File FileName="MGConsultores/Views/Home/HostingDominio.cshtml" Line="16" Column="1" />
+      <File FileName="MGConsultores/Views/Home/IntranetExtranet.cshtml" Line="17" Column="1" />
+      <File FileName="MGConsultores/Views/Home/Nosotros.cshtml" Line="21" Column="1" />
+      <File FileName="MGConsultores/Views/Home/PaginaWebCatalogo.cshtml" Line="17" Column="1" />
+      <File FileName="MGConsultores/Views/Home/PaginaWebCorporativa.cshtml" Line="17" Column="1" />
+      <File FileName="MGConsultores/Views/Home/SoporteMantenimiento.cshtml" Line="18" Column="1" />
+      <File FileName="MGConsultores/Views/Home/TiendasVirtuales.cshtml" Line="18" Column="1" />
+      <File FileName="MGConsultores/Views/Home/WebDesign.cshtml" Line="10" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MGConsultores" expanded="True">
+            <Node name="MGConsultores" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Content" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Contratos" expanded="True" />
+                <Node name="Implementaciones" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MGConsultores PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

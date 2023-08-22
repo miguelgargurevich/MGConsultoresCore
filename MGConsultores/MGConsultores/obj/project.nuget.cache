@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ZwFFVqMIr52mLMEwDJg67oUwR+aiW0LLBPjtQP4DMsI7ROCVEn5RBOvlSv/0xlvwwLE/DI7Gl+HqIsVkMSlwA==",
+  "success": true,
+  "projectFilePath": "/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/MGConsultores.csproj",
+  "expectedPackageFiles": [
+    "/Users/miguelfernandezgargurevich/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

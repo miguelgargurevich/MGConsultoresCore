@@ -1,0 +1,112 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MGConsultores
+build_property.RootNamespace = MGConsultores
+build_property.ProjectDir = /Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/AplicacionesMoviles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BcGxpY2FjaW9uZXNNb3ZpbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/AplicacionesWeb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BcGxpY2FjaW9uZXNXZWIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/CalidadGarantia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DYWxpZGFkR2FyYW50aWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/ComoTrabajamos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db21vVHJhYmFqYW1vcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/Consultoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db25zdWx0b3JpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/Contacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/Cultura.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DdWx0dXJhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/DesarrolloSoftware.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9EZXNhcnJvbGxvU29mdHdhcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/HostingDominio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Ib3N0aW5nRG9taW5pby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/IntranetExtranet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbnRyYW5ldEV4dHJhbmV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/Nosotros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Ob3NvdHJvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/PaginaWebCatalogo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9QYWdpbmFXZWJDYXRhbG9nby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/PaginaWebCorporativa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9QYWdpbmFXZWJDb3Jwb3JhdGl2YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/SoporteMantenimiento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Tb3BvcnRlTWFudGVuaW1pZW50by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/TiendasVirtuales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UaWVuZGFzVmlydHVhbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Home/WebDesign.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9XZWJEZXNpZ24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/Shared/_Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19NZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelfernandezgargurevich/Source/repos/miguelgargurevich/MGConsultoresCore/MGConsultores/MGConsultores/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
